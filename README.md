@@ -1,6 +1,7 @@
 # abjad-k8s
 
-```bash
-# Should return 989
+The following should return 989:
+
+```sh
 curl https://abjad.nrp-nautilus.io/?input=حافظ
 ```

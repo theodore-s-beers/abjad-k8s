@@ -6,7 +6,7 @@ authors = ["Theo Beers <tb3367@drexel.edu>"]
 
 [dependencies]
 abjad = "0.6.0"
-actix-web = "4.12.1"
+actix-web = "4.13.0"
 
 [dependencies.serde]
 version = "1.0.228"
